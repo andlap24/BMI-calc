@@ -1,0 +1,26 @@
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.exe
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.deps.json
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.runtimeconfig.json
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.runtimeconfig.dev.json
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.dll
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.pdb
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.AssemblyInfo.cs
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.dll
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.pdb
+C:\Users\andre\Desktop\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.genruntimeconfig.cache
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.exe
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.deps.json
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.runtimeconfig.json
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.runtimeconfig.dev.json
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.dll
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\bin\Debug\netcoreapp3.1\BodyMassIndexCalc.pdb
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.csprojAssemblyReference.cache
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.AssemblyInfoInputs.cache
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.AssemblyInfo.cs
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.csproj.CoreCompileInputs.cache
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.dll
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.pdb
+C:\Users\andre\Google Drive\рабочий стол с пк\VS projects\BodyMassIndexCalc\BodyMassIndexCalc\obj\Debug\netcoreapp3.1\BodyMassIndexCalc.genruntimeconfig.cache
