@@ -4,46 +4,8 @@ using System.Text;
 
 namespace BodyMassIndexCalc
 {
-    class UserData
+    class UserData : BaseUser
     {
-        private string firstName;
-        private string lastName;
-        private double age;
-        private double height;
-        private double weight;
-        private double index;
-
-        public string FirstName
-        {
-            set { firstName = value; }
-            get { return firstName; }
-        }
-        public string LastName
-        {
-            set { lastName = value; }
-            get { return lastName; }
-        }
-        public double Age
-        {
-            set { age = value; }
-            get { return age; }
-        }
-        public double Height
-        {
-            set { height = value; }
-            get { return height; }
-        }
-        public double Weight
-        {
-            set { weight = value; }
-            get { return weight; }
-        }
-        public double Index
-        {
-            set { index = value; }
-            get { return index; }
-        }
-
         public void Intro()
         {
             Console.WriteLine("Let's calculate your body mass index. Press <Enter> to starts");
@@ -54,35 +16,35 @@ namespace BodyMassIndexCalc
         public void UserName()
         {
             Console.Write("What is your name: ");
-            firstName = Console.ReadLine();
+            FirstName = Console.ReadLine();
 
-            Console.Write($"Hello {firstName}, your last name is: ");
-            lastName = Console.ReadLine();
+            Console.Write($"Hello {FirstName}, your last name is: ");
+            LastName = Console.ReadLine();
         }
 
         public void UserAge()
         {
             Console.WriteLine("Okey, now we need more information about your age, height and weight.");
             Console.Write("Your age is: ");
-            age = double.Parse(Console.ReadLine());
+            Age = double.Parse(Console.ReadLine());
 
-            string age18 = age > 18 ? "\nCongratulations, you can drink alkohol:)" : "\nYoung baby:)";
+            string age18 = Age > 18 ? "\nCongratulations, you can drink alkohol:)" : "\nYoung baby:)";
             Console.WriteLine(age18);
         }
 
         public void UserHeightAndWeight()
         {
             Console.Write("Your height: ");
-            height = double.Parse(Console.ReadLine());
+            Height = double.Parse(Console.ReadLine());
 
             Console.Write("Your wieght: ");
-            weight = double.Parse(Console.ReadLine());
+            Weight = double.Parse(Console.ReadLine());
         }
 
         public void ConfirmForm()
         {
             Console.WriteLine("Please confirm your information:");
-            Console.WriteLine($"\nName: {firstName},\nSurname: {lastName},\nAge: {age},\nWeight: {weight},\nHeight: {height}.");
+            Console.WriteLine($"\nName: {FirstName},\nSurname: {LastName},\nAge: {Age},\nWeight: {Weight},\nHeight: {Height}.");
             Console.Write("\nPress 'Y' if looks good and 'N' if something wrong: ");
             var answer = Console.ReadLine();
             answer.ToLower();
@@ -96,38 +58,37 @@ namespace BodyMassIndexCalc
 
         public void SummaryResult()
         {
-            index = weight / (height / 100 * height / 100);
+            Index = Weight / (Height / 100 * Height / 100);
 
-            bool isLow = index <= 18.5;
-            bool isNormal = index > 18.5 && index <= 25;
-            bool isHy = index > 25 && index <= 30;
-            bool isFat = index > 30;
+            bool isLow = Index <= 18.5;
+            bool isNormal = Index > 18.5 && Index <= 25;
+            bool isHy = Index > 25 && Index <= 30;
+            bool isFat = Index > 30;
             bool fat = isHy || isFat;
 
             if (isLow)
             {
                 Console.WriteLine("-", 50);
-                Console.WriteLine($"\nYourth BMI is: {index}. Underweight.");
+                Console.WriteLine($"\nYourth BMI is: {Index}. Underweight.");
             }
             if (isNormal)
             {
                 Console.WriteLine("-", 50);
-                Console.WriteLine($"\nYourth BMI is: {index}. Normal weight.");
+                Console.WriteLine($"\nYourth BMI is: {Index}. Normal weight.");
             }
             if (isHy)
             {
                 Console.WriteLine("-", 50);
-                Console.WriteLine($"\nYourth BMI is: {index}. Overweight.");
+                Console.WriteLine($"\nYourth BMI is: {Index}. Overweight.");
             }
             if (isFat)
             {
                 Console.WriteLine("-", 50);
-                Console.WriteLine($"\nYourth BMI is: {index}. Obese.");
+                Console.WriteLine($"\nYourth BMI is: {Index}. Obese.");
             }
             Console.WriteLine("");
             Console.WriteLine("Press <Enter> to exit... ");
             Console.ReadKey(true);
         }
-
     }
 }
