@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWqA6xMgvyl45heB1wepjDzYj9+JHFndSjJjQGGaj5w9TT88Ui5arUsFrL82OusQ6xGhaiSVQsERsoIiz/pBSw==",
+  "dgSpecHash": "BiSy6MjztAbOXD2sQoH4ER8UkoazKjobQOsiwFHs6pohak8mGKQe9gQHQLvyfesZ4Q233M4OD30RjK/RUbHM9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Google Drive\\рабочий стол с пк\\VS projects\\BodyMassIndexCalc\\BodyMassIndexCalc\\BodyMassIndexCalc.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\andre\\Desktop\\Code\\BMI-calc\\BodyMassIndexCalc\\BodyMassIndexCalc.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
